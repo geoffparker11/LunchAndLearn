@@ -1,4 +1,4 @@
 LunchAndLearn
 =============
 
-A sandbox for a handson workshop
+A sandbox for a hands on workshop
